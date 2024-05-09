@@ -14,7 +14,7 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "timely-joy-94aadb93be.media.strapiapp.com",
+        hostname: "brave-bubble-38ac9f95bb.media.strapiapp.com"
       }
     ],
   },
